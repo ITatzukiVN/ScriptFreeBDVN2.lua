@@ -100,7 +100,7 @@ local Tabs = {
     Farm = Window:AddTab({ Title = "Farm", Icon = "💸" }),
     Shop = Window:AddTab({ Title = "Shop", Icon = "🛒" }),
     Teleport = Window:AddTab({ Title = "Teleport", Icon = "✈️" }),
-    Support = Window:AddTab({ Title = "Support", Icon = "😅"})
+    Support = Window:AddTab({ Title = "Hỗ Trợ", Icon = "😅"})
 }
 
 local Options = Fluent.Options
